@@ -8,5 +8,7 @@ public class SimpleArray {
         movies[4] = "Sara";
         String movie = movies[3];
         System.out.println (movie);
+        int numberOfElements = movies.length;
+        System.out.println (numberOfElements);
     }
 }
